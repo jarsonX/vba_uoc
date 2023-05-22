@@ -1,7 +1,5 @@
 # Overview
-Excel/VBA for Creative Problem Solving (University of Colorado Boulder)
-
-This repository includes projects for final part of the course.
+This repository includes projects for final part of the course **Excel/VBA for Creative Problem Solving by University of Colorado Boulder**.
 
 # Course description
 
