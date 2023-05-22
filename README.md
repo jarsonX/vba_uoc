@@ -1,4 +1,4 @@
-# vba_uoc
+# Overview
 Excel/VBA for Creative Problem Solving (University of Colorado Boulder)
 
 This repository includes projects for final part of the course.
