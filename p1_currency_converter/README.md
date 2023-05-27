@@ -21,3 +21,8 @@ Create a user form that will enable one to use real-time exchange rates to conve
    - If the user leaves the input field blank and tries to run the button, it should display an error.
    - If the user puts text in the input field, it will display an error.
    - If the date field is not a date, then an error should be displayed
+
+## My notes
+
+1. Regarding requirement 2, default date as current date makes no sense. Rates are always given for a prior day.
+2. Regarding requirement 3, I would suggest putting results into User Form interface rather than a message box.
